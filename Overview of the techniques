@@ -1,0 +1,56 @@
+Today, consumers are more connected than ever. Even inter-continental barriers have broken down. 
+A consumer in the US can easily purchase from China, eg Ali Express if he finds a better value. 
+The cost for switching brands is very low. 
+The companies need to find better strategies to acquire, and more importantly, retain consumers.
+
+What is Consumer/Customer Analytics?
+
+According to SAS Enterprise,
+
+Customer analytics refers to the processes and technologies that give organizations the customer insight necessary to deliver 
+offers that are anticipated, relevant and timely.
+
+Some types of Consumer Analytics
+
+Propensity Analysis — Prediction of consumer behavior based on his activities. Which activities are strongly related to 
+final purchase decision? Is the customer just window shopping? At what point should we initiate contact or offer deals to 
+maximize purchase decision. Propensity analytics aims to stay ahead of the curve to offer the consumer the personalisation 
+at the right moment to facilitate his purchase and improve experience.
+
+Customer Segmentation — Customers come in different categories. For example, a senior tech executive will probably purchase 
+a high end laptop, a college student will probably purchase a budget student laptop. It is essential for us to segment customers, 
+to ensure we can offer them most relevant deals. It will also help us reduce marketing dollars spent, 
+if we are successful in better targeting our customers.
+
+Customer Churn Analysis — Customer churn is the customer attrition rate of a company. Any company needs customers to be successful. 
+At any moment, customers are entering and leaving the company. It’s like a bucket with a leak. 
+To have a successful company, our attrition rate should be lower than customer acquisition rate. 
+To patch our leaky bucket, we deploy predictive techniques to prevent attrition at the right moment by detecting 
+the trends which lead to churn.
+
+Up-Selling and Cross-Selling — Let’s assume that a customer purchases a laptop. He will probably need spare batteries, 
+charging stations and a warranty. This can be an example of up-selling. Now, let’s assume the customer bought the laptop, 
+which is top of the line. Now, that might suggest that the customer is probably tech-savvy and might purchase similar high-end 
+electronics goods. This is an example of cross-selling. In brief, we must use our analytics to best understand our customers.
+
+The top answers that Customer Analytics wants to answer are Acquisition, Revenue, Retention, Engagement.
+
+Customer acquisition refers to gaining new customers. It is usually more expensive than maintaining old customers. 
+Analytics can help us reduce the acquisition cost by improved targeting.
+
+We might be interested to know which revenue channel is the most profitable and direct our campaigns based on that information. 
+We will be interested to know which customer will be more profitable compared to others and how can we better engage their needs.
+
+We would be willing to learn at what points are we most likely to lose customers and for what reasons. 
+We can use that information to improve customer retention.
+
+We would be interested in finding out which features intrigue our customers the best. 
+Positive customer engagement is usually linked to less customer churn.
+
+Customer Lifetime Value is the net profit attributed to the entire future relationship with a customer. 
+We are interested in predicting the correct Customer Lifetime Value and act on the insights.
+
+In conclusion, we can say that the Customer Analytics stands in the cross roads of Statistics, Machine Learning, 
+Data interpretation, Pattern recognition with the final target of improving the user experience and the needs of the business.
+
+(https://medium.com/@arindambaisya/consumer-analytics-an-overview-5bf59ca9628)
